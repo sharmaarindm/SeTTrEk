@@ -1,0 +1,38 @@
+﻿  Level1.cpp
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(59): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(69): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(145): warning C4244: 'initializing': conversion from 'double' to 'clock_t', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(154): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(155): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(157): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(159): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(163): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(164): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(170): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(184): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(185): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(187): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(189): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(193): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(194): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(199): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(200): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(226): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(257): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(263): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(266): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asharma3382\desktop\gasproject\a2\a2\dxshell1\level1.cpp(420): warning C4267: 'argument': conversion from 'size_t' to 'UINT32', possible loss of data
+  DXShell1.vcxproj -> C:\Users\asharma3382\Desktop\gasProject\a2\a2\x64\Debug\DXShell1.exe
+  DXShell1.vcxproj -> C:\Users\asharma3382\Desktop\gasProject\a2\a2\x64\Debug\DXShell1.pdb (Partial PDB)
